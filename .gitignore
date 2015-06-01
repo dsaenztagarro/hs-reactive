@@ -1,0 +1,12 @@
+# Compiled haskell files
+*.o
+*.hi
+
+# Cabal related stuff
+.cabal-sandbox
+cabal.sandbox.config
+dist/
+
+# HPC related stuff
+.hpc/
+*.tix
